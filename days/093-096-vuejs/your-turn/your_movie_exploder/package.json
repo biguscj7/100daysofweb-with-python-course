@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.34.0",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.3.1",
-    "vue": "^2.6.6"
+    "jquery": "^3.8.0",
+    "vue": "^3.0.0"
   }
 }

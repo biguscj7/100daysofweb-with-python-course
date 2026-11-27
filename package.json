@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/talkpython/100daysofweb-with-python-course#readme",
   "dependencies": {
-    "vue": "^2.6.10"
+    "vue": "^3.0.0"
   }
 }
